@@ -1,0 +1,1 @@
+SELECT * FROM Rooms WHERE has_kitchen = 1 AND has_internet = 1;
