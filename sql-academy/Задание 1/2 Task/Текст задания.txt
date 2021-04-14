@@ -1,2 +1,0 @@
-SELECT по нескольким столбцам
-Выведите поля member_id, member_name и status из таблицы FamilyMembers.

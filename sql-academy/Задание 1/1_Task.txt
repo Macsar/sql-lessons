@@ -1,0 +1,6 @@
+SELECT по одному столбцу
+Выведите поле name из таблицы Passenger.
+
+// ---------- || ---------- //
+
+SELECT name FROM Passenger;
